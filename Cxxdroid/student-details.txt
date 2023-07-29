@@ -1,0 +1,12 @@
+Name                Age    Phone Number
+------             ------  ------------
+Fojle Rabbi 
+		19	1926235795
+Rifat alom 
+		18	1959597562
+Fojle
+		19	256788
+
+		5	256788
+
+		5	256788

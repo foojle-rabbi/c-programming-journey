@@ -1,0 +1,3 @@
+    unsolved problems 
+    1. (6-bitwise operator);
+    2. (7-printing pattern);

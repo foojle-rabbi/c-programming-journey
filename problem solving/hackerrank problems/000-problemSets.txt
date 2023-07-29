@@ -1,0 +1,24 @@
+    Hakcerrank problems
+    
+    1.	Two different sum
+    2.	Pointer in c 
+    3.	If else statement
+    4.	For loop in c
+    5.	Sum of digit of a five number
+    6.	Bitwise operator *
+    7.	Printing pattern using loops*
+    8.	1D array in c
+    9.	Array reversal
+    10.	Printing token
+    11.	Digit frequency 
+    12.	Dynamic array in c *
+    13.	Calculate the nth term *
+    14.	Student mark sum
+    15.	Sorting array of strings
+    16.	Permutations of string
+    17.	Variadic function in c
+    18.	Querying the document
+    19.	Boxes through tunel
+    20.	Small triangles, large triangles
+    21.	Post transition
+    22.	Structuring the document

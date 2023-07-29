@@ -1,0 +1,6 @@
+I am practing file handaling in C
+
+now i will add name and age
+
+My name: ismaan 
+My age: 19

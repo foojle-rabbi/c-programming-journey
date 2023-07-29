@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main()
+{
+    int firstnumber, lastnumber, i;
+    
+    printf("Entet fist number: ");
+    scanf("%d", &firstnumber);
+    
+    printf("Entet last number: ");
+    scanf("%d", &lastnumber);
+    
+    int sum = firstnumber;
+    
+    for(i=firstnumber; i<= lastnumber; i++){
+        sum += i ; 
+    }
+    
+    printf("Total sum : %d\n", sum - firstnumber);
+    return 0;
+}

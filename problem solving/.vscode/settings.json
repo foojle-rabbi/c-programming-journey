@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.cursorBlinking": false,
+    "terminal.integrated.defaultProfile.windows": null,
+    "terminal.integrated.cursorStyle": "line"
+}
